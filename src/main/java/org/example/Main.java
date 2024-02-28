@@ -17,7 +17,7 @@ public class Main {
         boolean exit = false;
 
         while (!exit) {
-            System.out.println("Library System =====");
+            System.out.println("Library System ====");
             System.out.println("1. Login as Student");
             System.out.println("2. Login as Admin");
             System.out.println("3. Exit");
